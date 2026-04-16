@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1767683836 source:c:\users\rober\onedrive\plocha\inf maturita\10\retezce.cpp
+	"retezce.h"
+	<iostream>
+	<cstring>
+
+1767682894 c:\users\rober\onedrive\plocha\inf maturita\10\retezce.h
+	<string>
+
+1767683628 source:c:\users\rober\onedrive\plocha\inf maturita\10\main.cpp
+	<iostream>
+	<string>
+	"retezce.h"
+
