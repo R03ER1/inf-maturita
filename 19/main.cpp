@@ -51,7 +51,6 @@ int main()
         strcpy(zamestnanec.funkce, radek.c_str());
 
 
-
         cout << endl;
 
         binsoubor.write((char*)&zamestnanec,sizeof(Pracovnik));
