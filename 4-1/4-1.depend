@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778754250 source:c:\users\rober\onedrive\plocha\inf maturita\4-1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
